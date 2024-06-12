@@ -1,0 +1,48 @@
+Dumping macros: __VERIWELL__
+TestBencher Pro simulation log created at Sat Jan 06 21:21:47 2024
+Beginning Compile
+Beginning Phase I
+Compiling source file: E:\University\Junior 1st\Design Lab\EXP 10\TestProcessor.v
+Compiling source file: E:\University\Junior 1st\Design Lab\EXP 10\Piplining_Procssor.v
+Compiling source file: E:\University\Junior 1st\Design Lab\EXP 10\Library439.v
+Compiling source file: E:\University\Junior 1st\Design Lab\EXP 10\Instruction_memory.v
+Compiling source file: E:\University\Junior 1st\Design Lab\EXP 10\Exp8 modules.v
+Compiling source file: E:\University\Junior 1st\Design Lab\EXP 10\Exp7 modules.v
+Compiling source file: E:\University\Junior 1st\Design Lab\EXP 10\Exp6 modules.v
+Compiling source file: E:\University\Junior 1st\Design Lab\EXP 10\Exp 3 REG32 and MUX32_1.v
+Compiling source file: E:\University\Junior 1st\Design Lab\EXP 10\Exp 3 Decoders and RegFile.v
+Compiling source file: E:\University\Junior 1st\Design Lab\EXP 10\Exp 2 FA and MUX8_1.v
+Compiling source file: E:\University\Junior 1st\Design Lab\EXP 10\Exp 2 ALUs.v
+Compiling source file: E:\University\Junior 1st\Design Lab\EXP 10\DataMem.v
+Compiling source file: E:\University\Junior 1st\Design Lab\EXP 10\ControlUnit.v
+Finished Phase I
+Entering Phase II...
+Finished Phase II
+Entering Phase III...
+Finished Phase III
+Highest level modules:   test_exp7,    NAND3,    NAND4,    NOR3,    NOR4,    XOR4,    XNOR3,    XNOR4,    TFF,    LATCH,    TRI, 
+Finding handle to test_exp7.clk
+Finding handle to test_exp7.reset
+Finding handle to test_exp7.enable
+Finding handle to test_exp7.PROC.PC.Q
+Finding handle to test_exp7.PROC.IM.instruction
+Finding handle to test_exp7.PROC.ifid.Q
+Finding handle to test_exp7.PROC.RF.X1.Q
+Finding handle to test_exp7.PROC.RF.X2.Q
+Finding handle to test_exp7.PROC.RF.X3.Q
+Finding handle to test_exp7.PROC.RF.X5.Q
+Finding handle to test_exp7.PROC.RF.X6.Q
+Finding handle to test_exp7.PROC.RF.X7.Q
+Finding handle to test_exp7.PROC.RF.X9.Q
+Finding handle to test_exp7.PROC.CU.memtoreg
+Finding handle to test_exp7.PROC.CU.regwrite
+Finding handle to test_exp7.PROC.CU.BGE
+Finding handle to test_exp7.PROC.CU.LUI
+Compile Complete
+.
+Running...
+Exiting TestBencher Pro at simulation time 0
+0 Errors, 0 Warnings
+Compile time = 0.00800, Load time = 0.16800, Execution time = 0.12400
+
+Normal exit
